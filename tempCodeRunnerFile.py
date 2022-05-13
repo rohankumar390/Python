@@ -1,0 +1,1 @@
+list1=['Rohan','Harry','Ankit',9,'XYZ',1.2]
